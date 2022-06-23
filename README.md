@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshaquatic
 - 👀 I’m interested in computers and music technology
-- 🌱 I’m currently learning everything I can.
+- 🌱 I’m currently focused on using Puredata as a sound design tool that can be used creatively within a live music performance.
 - 💞️ I’m looking to collaborate on Puredata projects especially those involving sampling and looping. 
 - 📫 joshaquatic@protonmail.com
 
